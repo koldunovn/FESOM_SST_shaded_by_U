@@ -1,4 +1,4 @@
-# FESOM_SST_shaded_by_U
+# FESOM2 SST shaded by U component of velocity
 
 Example of scalar field visualization shaded by corresponding vector field.
 
